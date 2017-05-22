@@ -2,6 +2,8 @@
 
 > A dark theme for [Textual](http://codeux.com/textual).
 
+![Screenshot](https://i.imgur.com/1RM5nlE.png)
+
 ## Installing
 
 1. [Download the Dracula theme](https://github.com/dracula/textual/archive/master.zip)
