@@ -2,7 +2,7 @@
 
 > A dark theme for [Textual](http://codeux.com/textual).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/textual.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
